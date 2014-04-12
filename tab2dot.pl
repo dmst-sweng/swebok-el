@@ -17,9 +17,15 @@ close_cluster
 my $cluster;
 
 while (<>) {
+	# Ignore line comments
+	next if (/^\s*\#/);
+
+	# Parse input line
 	m/^(\t*)(.*)\n/;
 	$level = length($1);
 	$name = $2;
+
+	# Rules for each diagram level
 	if ($level == 0) {
 		$top = $name;
 	} elsif ($level == 1) {
