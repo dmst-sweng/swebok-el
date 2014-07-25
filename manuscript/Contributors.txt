@@ -1,6 +1,6 @@
-## Συντελεστές έργου
+# Συντελεστές του έργου
 
-**Επιμελητές της ελληνικής έκδοσης**
+## Επιμελητές της ελληνικής έκδοσης
 
 Διομήδης Σπινέλλης
 
@@ -8,7 +8,7 @@
 
 Άννα Μέρλου
 
-**Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
+## Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης
 
 **Απαιτήσεις λογισμικού**
 
@@ -34,7 +34,7 @@
 
 **Οικονομικά τεχνολογίας λογισμικού**
 
-**Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
+## Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης
 
 **Software Requirements**   
 Gerald Kotonya, School of Computing and Communications, Lancaster University, UK, [gerald@comp.lancs.ac.uk](mailto:gerald@comp.lancs.ac.uk)  
@@ -81,7 +81,7 @@ Christof Ebert, Vector Consulting Services, Germany, [christof.ebert@vector.com]
 **Appendix B: IEEE and ISO/IEC Standards Supporting SWEBOK**   
 James W. Moore, USA, _James.W_[.Moore@ieee.org](mailto:Moore@ieee.org)
 
-**Συντελεστές****** **των****** **παλαιότερων****** **αγγλικών****** **εκδόσεων****** ****   
+## Συντελεστές των παλαιότερων αγγλικών εκδόσεων
 **Τα ακόλουθα πρόσωπα συνεισέφεραν ως συσχετιζόμενοι συντελεστές για τις δοκιμαστικές εκδόσεις του 2001 και του 2004** .  
 **Software Requirements**  
 Peter Sawyer, Computing Department, Lancaster University, UK  
@@ -119,7 +119,7 @@ Larry Reeker, NIST, USA
 **References Editor**  
 Marc Bouisset, Département d'informatique, UQAM
 
-Ομάδα επιθεώρησης της αγγλικής έκδοσης
+## Ομάδα επιθεώρησης της αγγλικής έκδοσης
 
 Carlos C. Amaro, USA  
 Mark Ardis, USA  
@@ -197,7 +197,6 @@ Claire Lohr, USA
 Vladimir Mandic, Serbia  
 Matt Mansell, New Zealand  
 John Marien, USA
-
 Stephen P. Masticola, USA  
 Nancy Mead, USA  
 Fuensanta Medina-Dominguez, Spain  
