@@ -8,8 +8,7 @@ then
 	ROTATE=-Grotate=90
 fi
 
-recode cp-1253/..UTF-8 <$1 |
-./tab2dot.pl |
+./tab2dot.pl <$1 |
 dot -Gsize=8,11 -Gdpi=300 -Tpng $ROTATE |
 # Set physical dimensions to 300 dpi
 pngtopnm |
