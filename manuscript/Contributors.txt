@@ -1,0 +1,265 @@
+## Συντελεστές έργου
+
+**Επιμελητές της ελληνικής έκδοσης**
+
+Διομήδης Σπινέλλης
+
+Μάιρα Δελοπούλου
+
+Άννα Μέρλου
+
+**Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
+
+**Απαιτήσεις λογισμικού**
+
+**Σχεδιασμός λογισμικού**
+
+**Κατασκευή λογισμικού**
+
+**Έλεγχος λογισμικού**
+
+**Συντήρηση λογισμικού**
+
+**Διαχείριση σχηματισμών λογισμικού**
+
+**Διοίκηση τεχνολογίας λογισμικού**
+
+**Διεργασίες τεχνολογίας λογισμικού**
+
+**Μοντέλα και μέθοδοι τεχνολογίας λογισμικού**
+
+**Ποιότητα λογισμικού**
+
+**Επαγγελματικές πρακτικές τεχνολογίας λογισμικού**
+
+**Οικονομικά τεχνολογίας λογισμικού**
+
+**Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης**
+
+**Software Requirements**   
+Gerald Kotonya, School of Computing and Communications, Lancaster University, UK, [gerald@comp.lancs.ac.uk](mailto:gerald@comp.lancs.ac.uk)  
+Peter Sawyer, School of Computing and Communications, Lancaster University, UK, [sawyer@comp.lancs.ac.uk](mailto:sawyer@comp.lancs.ac.uk)
+
+**Software Design**   
+Yanchun Sun, School of Electronics Engineering and Computer Science, Peking University, China, [sunyc@pku.edu.cn](mailto:sunyc@pku.edu.cn)
+
+**Software Construction**   
+Xin Peng, Software School, Fudan University, China, [pengxin@fudan.edu.cn](mailto:pengxin@fudan.edu.cn)
+
+**Software Testing**   
+Antonia Bertolino, ISTI-CNR, Italy, [antonia.bertolino@isti.cnr.it](mailto:bertolino@isti.cnr.it)  
+Eda Marchetti, ISTI-CNR, Italy, [eda.marchetti@isti.cnr.it](mailto:marchetti@isti.cnr.it)
+
+**Software Maintenance**   
+Alain April, École de technologie supérieure (ÉTS), Canada, [alain.april@etsmtl.ca Mira Kajko-Mattsson, School of Information and Communication Technology, KTH Royal Institute of Technology, ](mailto:april@etsmtl.ca)[mekm2@kth.se](mailto:mekm2@kth.se)
+
+**Software Configuration Management**   
+Roger Champagne, École de technologie supérieure (ÉTS), Canada, _roger_[.champagne@etsmtl.ca](mailto:champagne@etsmtl.ca)  
+Alain April, École de technologie supérieure (ÉTS), Canada, [alain.april@etsmtl.ca](mailto:april@etsmtl.ca)
+
+**Software Engineering Management**   
+James McDonald, Department of Computer Science and Software Engineering, Monmouth University, USA, [jamesmc@monmouth.edu](mailto:jamesmc@monmouth.edu)
+
+**Software Engineering Process**   
+Annette Reilly, Lockheed Martin Information Systems & Global Solutions, USA, [annette.reilly@computer.org](mailto:reilly@computer.org)  
+Richard E. Fairley, Software and Systems Engineering Associates (S2EA), USA, [dickfairley@gmail.com](mailto:dickfairley@gmail.com)
+
+**Software Engineering Models and Methods**   
+Michael F. Siok, Lockheed Martin Aeronautics Company, USA, [mike.f.siok@lmco.com](mailto:siok@lmco.com)
+
+**Software Quality**   
+J. David Blaine, USA, [jdavidblaine@gmail.com](mailto:jdavidblaine@gmail.com)  
+Durba Biswas, Tata Consultancy Services, India, [durba.biswas@tcs.com](mailto:biswas@tcs.com)
+
+**Software Engineering Professional Practice**   
+Aura Sheffield, USA, [arsheff@acm.org](mailto:arsheff@acm.org)  
+Hengming Zou, Shanghai Jiao Tong University, China, [zou@sjtu.edu.cn](mailto:zou@sjtu.edu.cn)
+
+**Software Engineering Economics**   
+Christof Ebert, Vector Consulting Services, Germany, [christof.ebert@vector.com](mailto:ebert@vector.com)
+
+**Appendix B: IEEE and ISO/IEC Standards Supporting SWEBOK**   
+James W. Moore, USA, _James.W_[.Moore@ieee.org](mailto:Moore@ieee.org)
+
+**Συντελεστές****** **των****** **παλαιότερων****** **αγγλικών****** **εκδόσεων****** ****   
+**Τα ακόλουθα πρόσωπα συνεισέφεραν ως συσχετιζόμενοι συντελεστές για τις δοκιμαστικές εκδόσεις του 2001 και του 2004** .  
+**Software Requirements**  
+Peter Sawyer, Computing Department, Lancaster University, UK  
+Gerald Kotonya, Computing Department, Lancaster University, UK  
+**Software Design**  
+Guy Tremblay, Département d'informatique, UQAM, Canada  
+**Software Construction**  
+Steve McConnell, Construx Software, USA  
+Terry Bollinger, the MITRE Corporation, USA  
+Philippe Gabrini, Département d'informatique, UQAM, Canada  
+Louis Martin, Département d'informatique, UQAM, Canada  
+**Software Testing**  
+Antonia Bertolino, ISTI-CNR, Italy  
+Eda Marchetti, ISTI-CNR, Italy  
+**Software Maintenance**  
+Thomas M. Pigoski, Techsoft Inc., USA  
+Alain April, École de technologie supérieure, Canada  
+**Software Configuration Management**  
+John A. Scott, Lawrence Livermore National Laboratory, USA  
+David Nisse, USA  
+**Software Engineering Management**  
+Dennis Frailey, Raytheon Company, USA  
+Stephen G. MacDonell, Auckland University of Technology, New Zealand  
+Andrew R. Gray, University of Otago, New Zealand  
+**Software Engineering Process**  
+Khaled El Emam, served while at the Canadian National Research Council, Canada  
+**Software Engineering Tools and Methods**  
+David Carrington, School of Information Technology and Electrical Engineering,  
+The University of Queensland, Australia  
+**xxvi** **_SWEBOK® Guide_ ****V3.0**  
+**Software Quality**  
+Alain April, École de technologie supérieure, Canada  
+Dolores Wallace, retired from the National Institute of Standards and Technology, USA  
+Larry Reeker, NIST, USA  
+**References Editor**  
+Marc Bouisset, Département d'informatique, UQAM
+
+Ομάδα επιθεώρησης της αγγλικής έκδοσης
+
+Carlos C. Amaro, USA  
+Mark Ardis, USA  
+Mora-Soto Arturo, Spain  
+Ohad Barzilay, Israel  
+Gianni Basaglia, Italy  
+Denis J. Bergquist, USA  
+Alexander Bogush, UK  
+Christopher Bohn, USA  
+Steve Bollweg, USA  
+Reto Bonderer, Switzerland  
+Alexei Botchkarev, Canada  
+Pieter Botman, Canada  
+Robert Bragner, USA  
+Kevin Brune, USA  
+Ogihara Bryan, USA  
+Luigi Buglione, Italy  
+Rick Cagle, USA  
+Barbara Canody, USA  
+Rogerio A. Carvalho, Brazil  
+Daniel Cerys, USA  
+Philippe Cohard, France  
+Ricardo Colomo-Palacios, Spain  
+Mauricio Coria, Argentina  
+Marek Cruz, UK  
+Stephen Danckert, USA  
+Bipul K. Das, Canada  
+James D. Davidson, USA  
+Jon Dehn, USA  
+Lincoln P. Djang, USA  
+Andreas Doblander, Austria  
+Yi-Ben Doo, USA  
+Scott J. Dougherty, UK  
+Regina DuBord, USA  
+Fedor Dzerzhinskiy, Russia  
+Ann M. Eblen, Australia  
+David M. Endres, USA  
+Marilyn Escue, USA  
+Varuna Eswer, India  
+Istvan Fay, Hungary  
+Jose L. Fernandez-Sanchez, Spain  
+Dennis J. Frailey, USA  
+Tihana Galinac Grbac, Croatia  
+Colin Garlick, New Zealand  
+Garth J.G. Glynn, UK  
+Jill Gostin, USA  
+Christiane Gresse von Wangenheim, Brazil  
+Thomas Gust, USA  
+H.N. Mok, Singapore  
+Jon D. Hagar, USA  
+Anees Ahmed Haidary, India  
+Duncan Hall, New Zealand  
+James Hart, USA  
+Jens H.J. Heidrich, Germany  
+Rich Hilliard, USA  
+Bob Hillier, Canada  
+Norman M. Hines, USA  
+Dave Hirst, USA  
+Theresa L. Hunt, USA  
+Kenneth Ingham, USA  
+Masahiko Ishikawa, Japan  
+Michael A. Jablonski, USA  
+G. Jagadeesh, India  
+Sebastian Justicia, Spain  
+Umut Kahramankaptan, Belgium  
+Pankaj Kamthan, Canada  
+Perry Kapadia, USA  
+Tarig A. Khalid, Sudan  
+Michael K.A. Klaes, Germany  
+Maged Koshty, Egypt  
+Claude C. Laporte, Canada  
+Dong Li, China  
+Ben Linders, Netherlands  
+Claire Lohr, USA  
+Vladimir Mandic, Serbia  
+Matt Mansell, New Zealand  
+John Marien, USA
+
+Stephen P. Masticola, USA  
+Nancy Mead, USA  
+Fuensanta Medina-Dominguez, Spain  
+Silvia Judith Meles, Argentina  
+Oscar A. Mondragon, Mexico  
+David W. Mutschler, USA  
+Maria Nelson, Brazil  
+John Noblin, USA  
+Bryan G. Ogihara, USA  
+Takehisa Okazaki, Japan  
+Hanna Oktaba, Mexico  
+Chin Hwee Ong, Hong Kong  
+Venkateswar Oruganti, India  
+Birgit Penzenstadler, Germany  
+Larry Peters, USA  
+S.K. Pillai, India  
+Vaclav Rajlich, USA  
+Kiron Rao, India  
+Luis Reyes, USA  
+Hassan Reza, USA  
+Steve Roach, USA  
+Teresa L. Roberts, USA  
+Dennis Robi, USA  
+Warren E. Robinson, USA  
+Jorge L. Rodriguez, USA  
+Alberto C. Sampaio, Portugal  
+Ed Samuels, USA  
+Maria-Isabel Sanchez-Segura, Spain  
+Vineet Sawant, USA  
+R. Schaaf, USA  
+James C. Schatzman, USA  
+Oscar A. Schivo, Argentina  
+Florian Schneider, Germany  
+Thom Schoeffling, USA  
+Reinhard Schrage, Germany  
+Neetu Sethia, India  
+Cindy C. Shelton, USA  
+Alan Shepherd, Germany  
+Katsutoshi Shintani, Japan  
+Erik Shreve, USA  
+Jaguaraci Silva, Brazil  
+M. Somasundaram, India  
+Peraphon Sophatsathit, Thailand  
+John Standen, UK  
+Joyce Statz, USA  
+Perdita P. Stevens, UK  
+David Struble, USA  
+Ohno Susumu, Japan  
+Urcun Tanik, USA  
+Talin Tasciyan, USA  
+J. Barrie Thompson, UK  
+Steve Tockey, USA  
+Miguel Eduardo Torres Moreno, Colombia  
+Dawid Trawczynski, USA  
+Adam Trendowicz, Germany  
+Norio Ueno, Japan  
+Cenk Uyan, Turkey  
+Chandra Sekar Veerappan, Singapore  
+Oruganti Venkateswar, India  
+Jochen Vogt, Germany  
+Hironori Washizaki, Japan  
+Ulf Westermann, Germany  
+Don Wilson, USA  
+Aharon Yadin, Israel  
+Hong Zhou, UK
