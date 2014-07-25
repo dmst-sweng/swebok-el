@@ -7,6 +7,6 @@ DIAGRAMS=1-SoftReq.$S 2-SoftDesign.$S 3-SoftConstr.$S 4-SoftTest.$S \
 9-SoftEngMM.$S 10-SoftQual.$S 11-SoftEngProfPr.$S 12-SoftEngEcon.$S
 
 %.png: %.txt
-	recode cp-1253/..UTF-8 <$< | ./tab2dot.pl | dot -T$S -o$@
+	./txt2png.sh $< $@
 
 all: $(DIAGRAMS)
