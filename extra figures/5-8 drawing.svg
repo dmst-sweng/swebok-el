@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="5-8 diagram.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3892"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible">
+      <g
+         id="g4003"
+         transform="scale(-1.2)">
+        <path
+           id="path4005"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4007"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4009"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4011"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4013"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4015"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3967"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3945" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-1.5551175"
+     inkscape:cy="509.59699"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.48585054px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3025"
+       width="105.55079"
+       height="53.399097"
+       x="93.220428"
+       y="305.38763" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="106.8162"
+       y="322.76102"
+       id="text3030"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98543264,1.0147827)"><tspan
+         sodipodi:role="line"
+         id="tspan3032"
+         x="106.8162"
+         y="322.76102">Εφαρμογή</tspan><tspan
+         sodipodi:role="line"
+         x="106.8162"
+         y="342.76102"
+         id="tspan3034">διαδικασιών</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff"
+       id="path3036"
+       sodipodi:cx="-421.73868"
+       sodipodi:cy="151.30611"
+       sodipodi:rx="92.428955"
+       sodipodi:ry="50.507626"
+       d="m -329.30972,151.30611 a 92.428955,50.507626 0 1 1 -184.85791,0 92.428955,50.507626 0 1 1 184.85791,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
+       id="path3042"
+       sodipodi:cx="-346.48233"
+       sodipodi:cy="277.0701"
+       sodipodi:rx="190.91884"
+       sodipodi:ry="161.11932"
+       d="m -155.56349,277.0701 a 190.91884,161.11932 0 1 1 -381.83768,0 190.91884,161.11932 0 1 1 381.83768,0 z"
+       transform="matrix(1.0078693,0,0,1.0438075,663.72927,227.26841)" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.62807781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3084"
+       width="139.75375"
+       height="67.39901"
+       x="178.46924"
+       y="451.84961" />
+    <rect
+       y="451.82739"
+       x="338.85822"
+       height="67.443428"
+       width="120.60528"
+       id="rect3086"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.58365732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.58365732px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3088"
+       width="120.60528"
+       height="67.443428"
+       x="261.13739"
+       y="550.80206" />
+    <rect
+       y="706.13525"
+       x="159.8918"
+       height="45.355881"
+       width="105.58879"
+       id="rect3860"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.44784805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="174.87822"
+       y="732.80878"
+       id="text3864"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3866"
+         x="174.87822"
+         y="732.80878">Απόσυρση</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.44784805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3872"
+       width="105.58879"
+       height="45.355881"
+       x="301.89178"
+       y="700.13525" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="318.87823"
+       y="726.80878"
+       id="text3874"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3876"
+         x="318.87823"
+         y="726.80878">Μεταφορά</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3878"
+       y="470.80878"
+       x="182.87822"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="470.80878"
+         x="182.87822"
+         id="tspan3880"
+         sodipodi:role="line">Ανάλυση</tspan><tspan
+         y="490.80878"
+         x="182.87822"
+         sodipodi:role="line"
+         id="tspan3901">προβλημάτων και</tspan><tspan
+         y="510.80878"
+         x="182.87822"
+         sodipodi:role="line"
+         id="tspan3905">τροποποίησης</tspan></text>
+    <g
+       id="g3886"
+       transform="translate(150.94114,579.30002)">
+      <text
+         id="text3890"
+         style="font-size:13.7245121px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="13.037669"
+         x="245.46626"
+         xml:space="preserve"> </text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="266.87823"
+       y="576.80878"
+       id="text3907"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3911"
+         sodipodi:role="line"
+         x="266.87823"
+         y="576.80878">Εφαρμογή</tspan><tspan
+         id="tspan3913"
+         sodipodi:role="line"
+         x="266.87823"
+         y="596.80878">τροποποίησης</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="342.87823"
+       y="468.80878"
+       id="text3917"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3923"
+         sodipodi:role="line"
+         x="342.87823"
+         y="468.80878">Επιθεώρηση/</tspan><tspan
+         sodipodi:role="line"
+         x="342.87823"
+         y="488.80878"
+         id="tspan3930">αποδοχή</tspan><tspan
+         sodipodi:role="line"
+         x="342.87823"
+         y="508.80878"
+         id="tspan3932">συντήρησης</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 237.38585,669.51437 C 200.0102,705.87986 200.0102,705.87986 200.0102,705.87986"
+       id="path3085"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 378.80721,675.57528 c -27.27412,24.24366 -27.27412,24.24366 -27.27412,24.24366"
+       id="path4339"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 197.9899,329.09296 c 58.58885,25.25381 58.58885,25.25381 58.58885,25.25381"
+       id="path4725"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
