@@ -2,215 +2,198 @@
 
 # Συντελεστές του έργου
 
+## Επιμελητές της αγγλικής έκδοσης
+
+Pierre Bourque, École de technologie supérieure (ÉTS)  
+Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA)
+
 ## Επιμελητές της ελληνικής έκδοσης
 
-Διομήδης Σπινέλλης
-
-Μάιρα Δελοπούλου
-
-Άννα Μέρλου
-
-## Συντελεστές των γνωστικών πεδίων της ελληνικής έκδοσης
-
-
-
->>*Απαιτήσεις λογισμικού*
-
-Μύρων Καραδήμας
-
-Νίκος Χαλιώτης
-
->>*Σχεδιασμός λογισμικού*
-
-Στέλιος Ευσταθόπουλος
-
-Νίκος Χαλιώτης
-
->>*Κατασκευή λογισμικού*
-
-Ατρέστης Καραλής
-
-Γιάννης Παπακίτσος
-
->>*Έλεγχος λογισμικού*
-
-Κατερίνα Παπαρσενίου
-
-Ισαμπέλ Μεντόνκα
-
-Γιάννης Παπακίτσος
-
->>*Συντήρηση λογισμικού*
-
-Γίαννης Μακρίδης
-
-Γιώργος Βασιλόπουλος
-
->>*Διαχείριση σχηματισμών λογισμικού*
-
-Ιάσων Τριγώνης
-
-Γιώργος Βασιλόπουλος
-
->>*Διοίκηση τεχνολογίας λογισμικού*
-
-Μανώλης Κυριακάκης
-
-Γιάννης Χαντζάρας
-
->>*Διεργασίες τεχνολογίας λογισμικού*
-
-Γιάννης Χαντζάρας
-
-Φωτεινή Καρινιωτάκη Ταλιάνη
-
->>*Μοντέλα και μέθοδοι τεχνολογίας λογισμικού*
-
-Χάρις Μπιτσάκου
-
-Φωτεινή Καρινιωτάκη Ταλιάνη
-
->>*Ποιότητα λογισμικού*
-
-Ντίνα Δρίτσα
-
-Φωτεινή Καρινιωτάκη Ταλιάνη
-
->>*Επαγγελματικές πρακτικές τεχνολογίας λογισμικού*
-
-Κώστας Παπαστάμος
-
-Στέλιος Κουφογιαννάκης
-
->>*Οικονομικά τεχνολογίας λογισμικού*
-
-Βασίλης Αναγνώστου
-
-Στέλιος Κουφογιαννάκης
+Διομήδης Σπινέλλης, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών  
+Μάιρα Δελοπούλου, Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών  
+Άννα Μέρλου, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών
 
 ## Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης
 
->>*Software Requirements*   
+### Software Requirements
 
-Gerald Kotonya, School of Computing and Communications, Lancaster University, UK, <gerald@comp.lancs.ac.uk>
-
+Gerald Kotonya, School of Computing and Communications, Lancaster University, UK, <gerald@comp.lancs.ac.uk>  
 Peter Sawyer, School of Computing and Communications, Lancaster University, UK, <sawyer@comp.lancs.ac.uk>
 
->>*Software Design*   
+### Software Design
 
 Yanchun Sun, School of Electronics Engineering and Computer Science, Peking University, China, <sunyc@pku.edu.cn>
 
->>*Software Construction*   
+### Software Construction
 
 Xin Peng, Software School, Fudan University, China, <pengxin@fudan.edu.cn>
 
->>*Software Testing*   
+### Software Testing
 
-Antonia Bertolino, ISTI-CNR, Italy, <antonia.bertolino@isti.cnr.it>
-
+Antonia Bertolino, ISTI-CNR, Italy, <antonia.bertolino@isti.cnr.it>  
 Eda Marchetti, ISTI-CNR, Italy, <eda.marchetti@isti.cnr.it>
 
->>*Software Maintenance*   
+### Software Maintenance
 
-Alain April, École de technologie supérieure (ÉTS), Canada, <alain.april@etsmtl.ca>
-
+Alain April, Ecole de technologie superieure (ETS), Canada, <alain.april@etsmtl.ca>  
 Mira Kajko-Mattsson, School of Information and Communication Technology, KTH Royal Institute of Technology, <mekm2@kth.se>
 
->>*Software Configuration Management*   
+### Software Configuration Management
 
-Roger Champagne, École de technologie supérieure (ÉTS), Canada, <roger.champagne@etsmtl.ca>
+Roger Champagne, Ecole de technologie superieure (ETS), Canada, <roger.champagne@etsmtl.ca>  
+Alain April, Ecole de technologie superieure (ETS), Canada, <alain.april@etsmtl.ca>
 
-Alain April, École de technologie supérieure (ÉTS), Canada, <alain.april@etsmtl.ca>
-
->>*Software Engineering Management*   
+### Software Engineering Management
 
 James McDonald, Department of Computer Science and Software Engineering, Monmouth University, USA, <jamesmc@monmouth.edu>
 
->>*Software Engineering Process*   
+### Software Engineering Process
 
 Annette Reilly, Lockheed Martin Information Systems & Global Solutions, USA, <annette.reilly@computer.org>  
-
 Richard E. Fairley, Software and Systems Engineering Associates (S2EA), USA, <dickfairley@gmail.com>
 
->>*Software Engineering Models and Methods*   
+### Software Engineering Models and Methods
 
 Michael F. Siok, Lockheed Martin Aeronautics Company, USA, <mike.f.siok@lmco.com>
 
->>*Software Quality*   
+### Software Quality
 
 J. David Blaine, USA, <jdavidblaine@gmail.com>  
 Durba Biswas, Tata Consultancy Services, India, <durba.biswas@tcs.com>
 
->>*Software Engineering Professional Practice*   
+### Software Engineering Professional Practice
 
 Aura Sheffield, USA, <arsheff@acm.org>  
 Hengming Zou, Shanghai Jiao Tong University, China, <zou@sjtu.edu.cn>
 
->>*Software Engineering Economics*   
+### Software Engineering Economics
 Christof Ebert, Vector Consulting Services, Germany, <christof.ebert@vector.com>
 
-Appendix B: IEEE and ISO/IEC Standards Supporting SWEBOK   
+### Appendix B: IEEE and ISO/IEC Standards Supporting SWEBOK
 James W. Moore, USA, <James.W.Moore@ieee.org>
+
+## Απόδοση στα ελληνικά
+
+### Απαιτήσεις λογισμικού
+
+Μύρων Καραδήμας  
+Νίκος Χαλιώτης
+
+### Σχεδιασμός λογισμικού
+
+Στέλιος Ευσταθόπουλος  
+Νίκος Χαλιώτης
+
+### Κατασκευή λογισμικού
+
+Ατρέστης Καραλής  
+Γιάννης Παπακίτσος
+
+### Έλεγχος λογισμικού
+
+Κατερίνα Παπαρσενίου  
+Ισαμπέλ Μεντόνκα  
+Γιάννης Παπακίτσος
+
+### Συντήρηση λογισμικού
+
+Γιάννης Μακρίδης  
+Γιώργος Βασιλόπουλος
+
+### Διαχείριση σχηματισμών λογισμικού
+
+Ιάσων Τριγώνης  
+Γιώργος Βασιλόπουλος
+
+### Διοίκηση τεχνολογίας λογισμικού
+
+Μανώλης Κυριακάκης  
+Γιάννης Χαντζάρας
+
+### Διεργασίες τεχνολογίας λογισμικού
+
+Γιάννης Χαντζάρας  
+Φωτεινή Καρινιωτάκη Ταλιάνη
+
+### Μοντέλα και μέθοδοι τεχνολογίας λογισμικού
+
+Χάρις Μπιτσάκου  
+Φωτεινή Καρινιωτάκη Ταλιάνη
+
+### Ποιότητα λογισμικού
+
+Ντίνα Δρίτσα  
+Φωτεινή Καρινιωτάκη Ταλιάνη
+
+### Επαγγελματικές πρακτικές τεχνολογίας λογισμικού
+
+Κώστας Παπαστάμος  
+Στέλιος Κουφογιαννάκης
+
+### Οικονομικά τεχνολογίας λογισμικού
+
+Βασίλης Αναγνώστου  
+Στέλιος Κουφογιαννάκης
 
 ## Συντελεστές των παλαιότερων αγγλικών εκδόσεων
 
-Τα ακόλουθα πρόσωπα συνεισέφεραν ως συσχετιζόμενοι συντελεστές για τις δοκιμαστικές εκδόσεις του 2001 και του 2004 .  
+Τα ακόλουθα πρόσωπα συνεισέφεραν ως συσχετιζόμενοι συντελεστές για τις δοκιμαστικές εκδόσεις του 2001 και του 2004.
 
->>*Software Requirements*  
+### Software Requirements
 
 Peter Sawyer, Computing Department, Lancaster University, UK  
 Gerald Kotonya, Computing Department, Lancaster University, UK  
 
->>*Software Design*  
+### Software Design
 
-Guy Tremblay, Département d'informatique, UQAM, Canada  
+Guy Tremblay, Departement d'informatique, UQAM, Canada  
 
->>*Software Construction*  
+### Software Construction
 
 Steve McConnell, Construx Software, USA  
 Terry Bollinger, the MITRE Corporation, USA  
-Philippe Gabrini, Département d'informatique, UQAM, Canada  
-Louis Martin, Département d'informatique, UQAM, Canada  
+Philippe Gabrini, Departement d'informatique, UQAM, Canada  
+Louis Martin, Departement d'informatique, UQAM, Canada  
 
->>*Software Testing*  
+### Software Testing
 
 Antonia Bertolino, ISTI-CNR, Italy  
 Eda Marchetti, ISTI-CNR, Italy  
 
->>*Software Maintenance*  
+### Software Maintenance
 
 Thomas M. Pigoski, Techsoft Inc., USA  
-Alain April, École de technologie supérieure, Canada  
+Alain April, Ecole de technologie superieure, Canada  
 
->>*Software Configuration Management*  
+### Software Configuration Management
 
 John A. Scott, Lawrence Livermore National Laboratory, USA  
 David Nisse, USA  
 
->>*Software Engineering Management*  
+### Software Engineering Management
 
 Dennis Frailey, Raytheon Company, USA  
 Stephen G. MacDonell, Auckland University of Technology, New Zealand  
 Andrew R. Gray, University of Otago, New Zealand  
 
->>*Software Engineering Process*  
+### Software Engineering Process
 
 Khaled El Emam, served while at the Canadian National Research Council, Canada  
 
->>*Software Engineering Tools and Methods*  
+### Software Engineering Tools and Methods
 
 David Carrington, School of Information Technology and Electrical Engineering,  
 The University of Queensland, Australia  
 
->>*Software Quality*  
+### Software Quality
 
-Alain April, École de technologie supérieure, Canada  
+Alain April, Ecole de technologie superieure, Canada  
 Dolores Wallace, retired from the National Institute of Standards and Technology, USA  
 Larry Reeker, NIST, USA  
 
->>*References Editor*  
+### References Editor
 
-Marc Bouisset, Département d'informatique, UQAM
+Marc Bouisset, Departement d'informatique, UQAM
 
 ## Ομάδα επιθεώρησης της αγγλικής έκδοσης
 
