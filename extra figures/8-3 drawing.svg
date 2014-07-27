@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="8-3 drawing.svg">
   <defs
      id="defs4">
     <marker
@@ -45,7 +45,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -111,19 +111,19 @@
        sodipodi:linespacing="125%"
        id="text2997"
        y="93.910156"
-       x="142.48732"
+       x="191.05006"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        xml:space="preserve"><tspan
          y="93.910156"
          x="142.48732"
          id="tspan2999"
          sodipodi:role="line"
-         style="font-size:13px">Κριτήρια εισόδου</tspan><tspan
+         style="font-size:13px;text-anchor:middle;text-align:center">Κριτήρια εισόδου</tspan><tspan
          y="110.16016"
          x="142.48732"
          sodipodi:role="line"
          id="tspan3001"
-         style="font-size:13px">που βρέθηκαν;</tspan></text>
+         style="font-size:13px;text-anchor:middle;text-align:center">πληρούνται;</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -175,20 +175,20 @@
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="530.4873"
+       x="576.49829"
        y="93.910156"
        id="text3787"
        sodipodi:linespacing="125%"><tspan
-         style="font-size:13px"
+         style="font-size:13px;text-anchor:middle;text-align:center"
          sodipodi:role="line"
          id="tspan3789"
          x="530.4873"
          y="93.910156">Κριτήρια εξόδου</tspan><tspan
-         style="font-size:13px"
+         style="font-size:13px;text-anchor:middle;text-align:center"
          id="tspan3791"
          sodipodi:role="line"
          x="530.4873"
-         y="110.16016">που βρέθηκαν;</tspan></text>
+         y="110.16016">πληρούνται;</tspan></text>
     <rect
        y="77.463852"
        x="669.21362"
