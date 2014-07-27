@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="6-9 drawing.svg">
   <defs
      id="defs4">
     <marker
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -187,12 +187,12 @@
        x="446.4696"
        y="137.79602" />
     <rect
-       y="249.08833"
-       x="447.76193"
-       height="170.10567"
-       width="149.90262"
+       y="249.10052"
+       x="447.77411"
+       height="170.0813"
+       width="154.92902"
        id="rect3009"
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.47212458;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.49649477;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7755357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 93.005051,103.9315 c 0,39.49152 0,38.88396 0,38.88396"
@@ -309,7 +309,7 @@
          y="193.77403"
          x="42.013069"
          sodipodi:role="line"
-         id="tspan7025">προς έλεγχο</tspan></text>
+         id="tspan7025">υπό έλεγχο</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7033"
@@ -335,7 +335,7 @@
          id="tspan7047"
          y="169.8502"
          x="266.87952"
-         sodipodi:role="line">Αναθεώρηση</tspan><tspan
+         sodipodi:role="line">Επιθεώρηση</tspan><tspan
          y="187.3502"
          x="266.87952"
          sodipodi:role="line"
@@ -459,7 +459,7 @@
          y="400.73395"
          x="467.62759"
          sodipodi:role="line"
-         id="tspan7140">συνέχεια</tspan><tspan
+         id="tspan7140">συνέχεια.</tspan><tspan
          y="418.80383"
          x="467.62759"
          sodipodi:role="line"
