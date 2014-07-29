@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path3781"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3766"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="314.75486"
+     inkscape:cy="751.9948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.10368192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="m 115.15739,52.014183 c 0,238.713287 0,238.713287 0,238.713287"
+       id="path2985"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.137;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 115.15739,290.70716 370.58036,0"
+       id="path2989"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4389"
+       d="m 211.15739,78.857034 c 0,211.870436 0,211.870436 0,211.870436"
+       style="fill:none;stroke:#000000;stroke-width:1.03977847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95844322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="m 249.15739,110.70717 c 0,180.0203 0,180.0203 0,180.0203"
+       id="path4391"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4393"
+       d="m 279.15739,190.59834 c 0,100.12913 0,100.12913 0,100.12913"
+       style="fill:none;stroke:#000000;stroke-width:0.71480221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.83311439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="m 304.63095,258.64076 c 0,31.82465 0,31.82465 0,31.82465"
+       id="path4395"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.63603181px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="m 185.15739,211.45063 c 0,79.27684 0,79.27684 0,79.27684"
+       id="path4397"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4399"
+       d="m 160.63095,258.64076 c 0,31.82465 0,31.82465 0,31.82465"
+       style="fill:none;stroke:#000000;stroke-width:0.83311439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.07806396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 160.61426,290.68686 c 0,32.8726 0,32.8726 0,32.8726"
+       id="path4401"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4593"
+       d="m 210.61426,290.68686 c 0,32.8726 0,32.8726 0,32.8726"
+       style="fill:none;stroke:#000000;stroke-width:1.07806396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.07806396px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 278.61426,290.68686 c 0,32.8726 0,32.8726 0,32.8726"
+       id="path4595"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.03977846999999990px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 131.23351,290.98907 c 0,211.87043 0,211.87043 0,211.87043"
+       id="path4597"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="8.4061012"
+       y="76.554825"
+       id="text4967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4969"
+         x="8.4061012"
+         y="76.554825">Ταμειακή ροή</tspan><tspan
+         sodipodi:role="line"
+         x="8.4061012"
+         y="96.554825"
+         id="tspan4971">(νόμισμα,</tspan><tspan
+         sodipodi:role="line"
+         x="8.4061012"
+         y="116.55482"
+         id="tspan4973">π.χ. USS ή €)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4975"
+       y="524.55493"
+       x="110.54823"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4981"
+         y="524.55493"
+         x="110.54823"
+         sodipodi:role="line">Αρχική επένδυση</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4988"
+       y="131.10306"
+       x="271.04578"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan4994"
+         y="131.10306"
+         x="271.04578"
+         sodipodi:role="line">Επαναλαμβανόμενα έσοδα από τις πωλήσεις</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="417.81738"
+       y="312.99142"
+       id="text5001"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="417.81738"
+         y="312.99142"
+         id="tspan5003">Χρόνος</tspan><tspan
+         sodipodi:role="line"
+         x="417.81738"
+         y="332.99142"
+         id="tspan5005">(αντιστοιχεί σε περιόδους,</tspan><tspan
+         sodipodi:role="line"
+         x="417.81738"
+         y="352.99142"
+         id="tspan5007">π.χ. τρίμηνα)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5013"
+       y="343.29599"
+       x="153.15741"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan5015"
+         y="343.29599"
+         x="153.15741"
+         sodipodi:role="line">Δαπάνες κύκλου ζωής</tspan><tspan
+         id="tspan5019"
+         y="363.29599"
+         x="153.15741"
+         sodipodi:role="line">(π.χ. ανάπτυξη,</tspan><tspan
+         y="383.29599"
+         x="153.15741"
+         sodipodi:role="line"
+         id="tspan5023">συντήρηση)</tspan></text>
+  </g>
+</svg>

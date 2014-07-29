@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="6-9 drawing.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path5276"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path5273"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5255"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3797"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3799" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="191.68379"
+     inkscape:cy="787.19975"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.86199999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="107.58125"
+       sodipodi:cy="101.30356"
+       sodipodi:rx="68.185295"
+       sodipodi:ry="46.972092"
+       d="m 175.76655,101.30356 a 68.185295,46.972092 0 1 1 -136.370592,0 68.185295,46.972092 0 1 1 136.370592,0 z"
+       transform="matrix(0.81596888,0,0,0.81887956,7.1713915,-18.238152)" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.83749366;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987"
+       width="138.41541"
+       height="59.623508"
+       x="39.444607"
+       y="142.77103" />
+    <rect
+       y="250.77043"
+       x="39.504963"
+       height="59.624638"
+       width="138.03969"
+       id="rect2991"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.83636421;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.86199999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2997"
+       sodipodi:sides="4"
+       sodipodi:cx="69.700523"
+       sodipodi:cy="355.35693"
+       sodipodi:r1="57.578693"
+       sodipodi:r2="40.714287"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 69.700525,412.93563 12.12183,355.35694 69.700522,297.77824 127.27922,355.35693 z"
+       transform="matrix(1.0096453,0,0,0.77280321,21.954623,117.60397)" />
+    <rect
+       y="34.800236"
+       x="239.33167"
+       height="59.565071"
+       width="158.56003"
+       id="rect2999"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.89592826;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       transform="matrix(1.0096453,0,0,0.77280321,235.95462,-102.39603)"
+       d="M 69.700525,412.93563 12.12183,355.35694 69.700522,297.77824 127.27922,355.35693 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="40.714287"
+       sodipodi:r1="57.578693"
+       sodipodi:cy="355.35693"
+       sodipodi:cx="69.700523"
+       sodipodi:sides="4"
+       id="path3001"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.86199999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="star" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.89874846;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3003"
+       width="159.56737"
+       height="59.562252"
+       x="238.34323"
+       y="250.80164" />
+    <rect
+       y="358.80444"
+       x="237.47803"
+       height="59.556641"
+       width="161.58205"
+       id="rect3005"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.90436178;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.86721259;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3007"
+       width="148.48721"
+       height="59.593788"
+       x="446.4696"
+       y="137.79602" />
+    <rect
+       y="249.10052"
+       x="447.77411"
+       height="170.0813"
+       width="154.92902"
+       id="rect3009"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.49649477;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.7755357px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.005051,103.9315 c 0,39.49152 0,38.88396 0,38.88396"
+       id="path3011"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3013"
+       d="m 93.005051,203.2766 c 0,47.35444 0,46.62591 0,46.62591"
+       style="fill:none;stroke:#000000;stroke-width:0.84923959px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.74458671px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 93.00505,311.1784 c 0,36.40246 0,35.84242 0,35.84242"
+       id="path3015"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3017"
+       d="m 184.60536,227.87599 c 0,166.17774 0,163.62114 0,163.62114"
+       style="fill:none;stroke:#000000;stroke-width:1.2850455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.1345824px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 202.05462,52.120601 c 0,382.816449 0,376.926949 0,376.926949"
+       id="path5247"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.01106274;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+       d="m 93.911036,229.08786 c 89.546274,0 89.546274,0 89.546274,0"
+       id="path5249"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05873024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 203.99115,429.09806 c -101.90609,0 -101.90609,0 -101.90609,0"
+       id="path5695"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5697"
+       d="m 238.3246,53.320548 c -35.2855,0 -35.2855,0 -35.2855,0"
+       style="fill:none;stroke:#000000;stroke-width:1.11818516px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.09707344px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:none"
+       d="m 183.31449,391.58685 c -31.76029,0 -31.76029,0 -31.76029,0"
+       id="path6809"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.12152886px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:none"
+       d="m 444.46508,171.94538 c -79.06212,0 -79.06212,0 -79.06212,0"
+       id="path6997"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="356.70569"
+       y="160.29596"
+       id="text6999"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7001"
+         x="356.70569"
+         y="160.29596">Απορρίφθηκε</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7003"
+       y="361.79852"
+       x="123.82893"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="361.79852"
+         x="123.82893"
+         id="tspan7005"
+         sodipodi:role="line">Ατελές</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7007"
+       y="451.81979"
+       x="109.21832"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="451.81979"
+         x="109.21832"
+         id="tspan7009"
+         sodipodi:role="line">Ολοκληρωμένο</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="62.013069"
+       y="60.774033"
+       id="text7011"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7013"
+         x="62.013069"
+         y="60.774033">Ανάγκη για</tspan><tspan
+         sodipodi:role="line"
+         x="62.013069"
+         y="78.274033"
+         id="tspan7015">αλλαγή</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7017"
+       y="158.77403"
+       x="42.013069"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7021"
+         y="158.77403"
+         x="42.013069"
+         sodipodi:role="line">Εντοπισμός αλλαγής </tspan><tspan
+         y="176.27403"
+         x="42.013069"
+         sodipodi:role="line"
+         id="tspan7023">για το αντικείμενο</tspan><tspan
+         y="193.77403"
+         x="42.013069"
+         sodipodi:role="line"
+         id="tspan7025">υπό έλεγχο</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7033"
+       y="58.774033"
+       x="278.01306"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7037"
+         y="58.774033"
+         x="278.01306"
+         sodipodi:role="line">Προκαταρκτική</tspan><tspan
+         y="76.274033"
+         x="278.01306"
+         sodipodi:role="line"
+         id="tspan7041">έρευνα</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7043"
+       y="169.8502"
+       x="266.87952"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7047"
+         y="169.8502"
+         x="266.87952"
+         sodipodi:role="line">Επιθεώρηση</tspan><tspan
+         y="187.3502"
+         x="266.87952"
+         sodipodi:role="line"
+         id="tspan7051">CCB </tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7053"
+       d="m 306.91373,215.47495 c 0,36.40246 0,35.84242 0,35.84242"
+       style="fill:none;stroke:#000000;stroke-width:0.74458671px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70581985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 306.91373,95.147812 c 0,32.710558 0,32.207318 0,32.207318"
+       id="path7055"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.84910619px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 306.91373,311.29378 c 0,47.33955 0,46.61125 0,46.61125"
+       id="path7057"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.47381401px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="240.73361"
+       y="285.18607"
+       id="text7059"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0338439,0.96726402)"><tspan
+         sodipodi:role="line"
+         x="240.73361"
+         y="285.18607"
+         id="tspan7061">Ανάθεση σε</tspan><tspan
+         id="tspan7063"
+         sodipodi:role="line"
+         x="240.73361"
+         y="303.27832">μηχανικό λογισμικού </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="474.87952"
+       y="161.8502"
+       id="text7071"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7075"
+         sodipodi:role="line"
+         x="474.87952"
+         y="161.8502">Πληροφόρηση</tspan><tspan
+         sodipodi:role="line"
+         x="474.87952"
+         y="179.3502"
+         id="tspan7079">αιτούντος</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7081"
+       y="234.29596"
+       x="312.70569"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="234.29596"
+         x="312.70569"
+         id="tspan7083"
+         sodipodi:role="line">Εγκρίθηκε</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7085"
+       y="373.85022"
+       x="240.87952"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="373.85022"
+         x="240.87952"
+         sodipodi:role="line"
+         id="tspan7091">Χρονοπρογραμματισμός,</tspan><tspan
+         y="391.35022"
+         x="240.87952"
+         sodipodi:role="line"
+         id="tspan7098">σχεδιασμός, έλεγχος,</tspan><tspan
+         y="408.85022"
+         x="240.87952"
+         sodipodi:role="line"
+         id="tspan7100">ολοκληρωση αλλαγής </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7104"
+       y="256.17484"
+       x="467.62759"
+       style="font-size:14.45591164px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(0.96846194,1.0325651)"><tspan
+         y="256.17484"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7118">Επίσης, υπάρχει και</tspan><tspan
+         y="274.24472"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7120">το μονοπάτι &quot;έκτακτης&quot;</tspan><tspan
+         y="292.31461"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7114">ανάγκης.</tspan><tspan
+         y="310.38449"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7128" /><tspan
+         y="328.45441"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7130">Οι αλλαγές μπορούν</tspan><tspan
+         y="346.52429"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7132">να υλοποιηθούν με τη</tspan><tspan
+         y="364.59418"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7134">διαδικασία αλλαγών</tspan><tspan
+         y="382.66406"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7138">που εκτελούνται στη</tspan><tspan
+         y="400.73395"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7140">συνέχεια.</tspan><tspan
+         y="418.80383"
+         x="467.62759"
+         sodipodi:role="line"
+         id="tspan7136" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7142"
+       y="274.77405"
+       x="56.013069"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan7146"
+         y="274.77405"
+         x="56.013069"
+         sodipodi:role="line">Δημιουργία ή</tspan><tspan
+         y="292.27405"
+         x="56.013069"
+         sodipodi:role="line"
+         id="tspan7150">ενημέρωση SCR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="56.013069"
+       y="388.77405"
+       id="text7152"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7156"
+         sodipodi:role="line"
+         x="56.013069"
+         y="388.77405">Αξιολόγηση</tspan><tspan
+         sodipodi:role="line"
+         x="56.013069"
+         y="406.27405"
+         id="tspan7160">SCR</tspan></text>
+  </g>
+</svg>

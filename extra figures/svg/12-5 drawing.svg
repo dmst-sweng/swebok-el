@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3780"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="345.21322"
+     inkscape:cy="820.01654"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.97578448;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="134.8262"
+       height="65.108627"
+       x="56.324883"
+       y="83.32132" />
+    <rect
+       y="14.793387"
+       x="242.97974"
+       height="67.095764"
+       width="133.68292"
+       id="rect2987"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.98635447;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.98337102;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2989"
+       width="134.84978"
+       height="66.113419"
+       x="242.97974"
+       y="134.7934" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.81800342px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 9.9373245,119.99139 c 44.6109175,0 44.6109175,0 44.6109175,0"
+       id="path3001"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3003"
+       d="m 251.21655,272.80869 c 71.63948,0 71.63948,0 71.63948,0"
+       style="fill:none;stroke:#000000;stroke-width:1.03699994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="67.700523"
+       y="102.8391"
+       id="text4399"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4401"
+         x="67.700523"
+         y="102.8391"
+         style="font-size:14px">Κατανόηση του</tspan><tspan
+         sodipodi:role="line"
+         x="67.700523"
+         y="122.8391"
+         id="tspan4403"
+         style="font-size:14px">πραγματικού</tspan><tspan
+         sodipodi:role="line"
+         x="67.700523"
+         y="142.83911"
+         id="tspan4405"
+         style="font-size:14px">προβλήματος</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4407"
+       y="42.148731"
+       x="248.35539"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:14px"
+         y="42.148731"
+         x="248.35539"
+         sodipodi:role="line"
+         id="tspan4419">Ορισμός των</tspan><tspan
+         style="font-size:14px"
+         y="59.648731"
+         x="248.35539"
+         sodipodi:role="line"
+         id="tspan4421">κριτηρίων επιλογής</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="246.35539"
+       y="154.14873"
+       id="text4423"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4429"
+         sodipodi:role="line"
+         x="246.35539"
+         y="154.14873"
+         style="font-size:14px">Εντοπισμός όλων</tspan><tspan
+         sodipodi:role="line"
+         x="246.35539"
+         y="171.64873"
+         style="font-size:14px"
+         id="tspan4438">των εύλογων τεχνικά</tspan><tspan
+         sodipodi:role="line"
+         x="246.35539"
+         y="189.14873"
+         style="font-size:14px"
+         id="tspan4442">εφικτών λύσεων</tspan></text>
+    <rect
+       y="81.32132"
+       x="463.76038"
+       height="72.624786"
+       width="143.94662"
+       id="rect4450"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.06485546;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.97578448;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4452"
+       width="134.8262"
+       height="65.108627"
+       x="114.47202"
+       y="238.17923" />
+    <rect
+       y="238.17923"
+       x="324.47202"
+       height="65.108627"
+       width="157.47583"
+       id="rect4454"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.05456591;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4456"
+       y="95.701286"
+       x="461.80887"
+       style="font-size:14.16138744px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(1.0115277,0.98860368)"><tspan
+         id="tspan4462"
+         style="font-size:14.16138744px"
+         y="95.701286"
+         x="461.80887"
+         sodipodi:role="line">Αξιολόγηση κάθε</tspan><tspan
+         style="font-size:14.16138744px"
+         y="113.40302"
+         x="461.80887"
+         sodipodi:role="line"
+         id="tspan4469">πρότασης συγκριτικά</tspan><tspan
+         style="font-size:14.16138744px"
+         y="131.10475"
+         x="461.80887"
+         sodipodi:role="line"
+         id="tspan4471">με τα κριτήρια </tspan><tspan
+         style="font-size:14.16138744px"
+         y="148.80649"
+         x="461.80887"
+         sodipodi:role="line"
+         id="tspan4473">επιλογής</tspan></text>
+    <text
+       transform="scale(1.0115277,0.98860368)"
+       xml:space="preserve"
+       style="font-size:14.16138744px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="142.64551"
+       y="259.47675"
+       id="text4475"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4483"
+         sodipodi:role="line"
+         x="142.64551"
+         y="259.47675"
+         style="font-size:14.16138744px">Επιλογή της </tspan><tspan
+         sodipodi:role="line"
+         x="142.64551"
+         y="277.17847"
+         style="font-size:14.16138744px"
+         id="tspan4496">επιθυμητής</tspan><tspan
+         sodipodi:role="line"
+         x="142.64551"
+         y="294.88022"
+         style="font-size:14.16138744px"
+         id="tspan4500">πρότασης</tspan></text>
+    <text
+       transform="scale(1.0115277,0.98860368)"
+       xml:space="preserve"
+       style="font-size:14.16138744px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="325.59744"
+       y="259.39456"
+       id="text4502"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4510"
+         sodipodi:role="line"
+         x="325.59744"
+         y="259.39456"
+         style="font-size:14.16138744px">Παρακολούθηση της</tspan><tspan
+         sodipodi:role="line"
+         x="325.59744"
+         y="277.09628"
+         style="font-size:14.16138744px"
+         id="tspan4519">της απόδοσης της </tspan><tspan
+         sodipodi:role="line"
+         x="325.59744"
+         y="294.79803"
+         style="font-size:14.16138744px"
+         id="tspan4521">επιλεγμένης πρότασης</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4536"
+       d="m 214.12491,43.219797 c 29.0985,0 29.0985,0 29.0985,0"
+       style="fill:none;stroke:#000000;stroke-width:0.66064745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.96401042px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 482.70902,274.829 c 61.95757,0 61.95757,0 61.95757,0"
+       id="path4538"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.81800342px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 417.59224,102.94063 c 44.61092,0 44.61092,0 44.61092,0"
+       id="path4540"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66064745px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 214.12491,169.2198 c 29.0985,0 29.0985,0 29.0985,0"
+       id="path4542"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95388395px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 213.14219,42.209642 c 0,50.552278 0,50.552278 0,50.552278"
+       id="path4544"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4546"
+       d="m 213.14219,122.99016 c 0,46.4987 0,46.4987 0,46.4987"
+       style="fill:none;stroke:#000000;stroke-width:0.91484088px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.80749708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 191.92899,93.72742 c 22.39483,0 22.39483,0 22.39483,0"
+       id="path4548"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4550"
+       d="m 191.92899,123.72742 c 22.39483,0 22.39483,0 22.39483,0"
+       style="fill:none;stroke:#000000;stroke-width:0.80749708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4552"
+       d="m 377.10158,51.219793 c 41.26213,0 41.26213,0 41.26213,0"
+       style="fill:none;stroke:#000000;stroke-width:1.0960815px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06955957px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 377.10158,165.21979 c 39.28944,0 39.28944,0 39.28944,0"
+       id="path4554"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4556"
+       d="m 417.59224,130.94063 c 44.61092,0 44.61092,0 44.61092,0"
+       style="fill:none;stroke:#000000;stroke-width:0.81800342px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4558"
+       d="m 417.14219,50.223551 c 0,52.538369 0,52.538369 0,52.538369"
+       style="fill:none;stroke:#000000;stroke-width:0.97244143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79980797px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 417.14219,130.20964 c 0,35.5403 0,35.5403 0,35.5403"
+       id="path4560"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.78933501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 73.34938,276.80869 c 41.50665,0 41.50665,0 41.50665,0"
+       id="path4562"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4564"
+       d="m 73.741139,221.14399 c 0,56.55707 0,56.55707 0,56.55707"
+       style="fill:none;stroke:#000000;stroke-width:1.00894761px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4566"
+       d="m 73.045664,220.71726 c 590.526646,0 590.526646,0 590.526646,0"
+       style="fill:none;stroke:#000000;stroke-width:1.08919096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24489737px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 607.41636,118.11322 c 53.22713,0 53.22713,0 53.22713,0"
+       id="path4568"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.35780931px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 661.73114,117.85818 c 0,102.43002 0,102.43002 0,102.43002"
+       id="path4570"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
