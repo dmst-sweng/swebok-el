@@ -1,10 +1,9 @@
-﻿{frontmatter}
 
 # Συντελεστές του έργου
 
 ## Επιμελητές της αγγλικής έκδοσης
 
-Pierre Bourque, Ecole de technologie superieure (ETS)  
+Pierre Bourque, École de technologie supérieure (ÉTS)
 Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA)
 
 ## Επιμελητές της ελληνικής έκδοσης
