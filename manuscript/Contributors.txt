@@ -4,7 +4,7 @@
 
 ## Επιμελητές της αγγλικής έκδοσης
 
-Pierre Bourque, École de technologie supérieure (ÉTS)  
+Pierre Bourque, Ecole de technologie superieure (ETS)  
 Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA)
 
 ## Επιμελητές της ελληνικής έκδοσης
