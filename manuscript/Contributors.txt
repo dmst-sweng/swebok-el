@@ -230,6 +230,8 @@ Marc Bouisset, Departement d'informatique, UQAM
 |Marilyn Escue, USA			|Matt Mansell, New Zealand
 |Varuna Eswer, India			|John Marien, USA
 
+{pagebreak}
+
 ## Πρόεδροι της IEEE Computer Society
 Dejan Milojicic, 2014  
 David Alan Grier, 2013  
