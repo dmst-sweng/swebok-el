@@ -2,15 +2,38 @@
 # Συντελεστές του έργου
 
 ## Επιμελητές της αγγλικής έκδοσης
-
-Pierre Bourque, École de technologie supérieure (ÉTS)
-Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA)
+Pierre Bourque, École de technologie supérieure (ÉTS), pierre.bourque@etsmtl.ca  
+Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA), dickfairley@gmail.com
 
 ## Επιμελητές της ελληνικής έκδοσης
-
 Διομήδης Σπινέλλης, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών  
 Μάιρα Δελοπούλου, Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών  
 Άννα Μέρλου, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών
+
+## Βοηθοί επιμελητές της αγγλικής έκδοσης
+Alain Abran, Department of Software and IT Engineering, École de technologie supérieure (ÉTS), Canada, alain.abran@etsmtl.ca  
+Juan Garbajosa, Universidad Politecnica de Madrid (Technical University of Madrid, UPM), Spain, juan.garbajosa@upm.es  
+Gargi Keeni, Tata Consultancy Services, India, gargi@ieee.org  
+Beijun Shen, School of Software, Shanghai Jiao Tong University, China, bjshen@sjtu.edu.cn
+
+## Συνεισφέροντες επιμελητές
+Οι παρακάτω συνεισέφεραν στην επιμέλεια του SWEBOK Guide V3:  
+Don Shafer  
+Linda Shafer  
+Mary Jane Willshire  
+Kate Guillemette  
+
+## Συμβούλιο ελέγχου αλλαγών
+Οι παρακάτω υπηρέτησαν στο συμβούλιο ελέγχου αλλαγών του SWEBOK Guide V3:  
+Pierre Bourque  
+Richard E. (Dick) Fairley, (Πρόεδρος)  
+Dennis Frailey  
+Michael Gayle  
+Thomas Hilburn  
+Paul Joannou  
+James W. Moore  
+Don Shafer  
+Steve Tockey
 
 ## Συντελεστές των γνωστικών πεδίων της αγγλικής έκδοσης
 
@@ -29,12 +52,12 @@ Antonia Bertolino, ISTI-CNR, Italy, <antonia.bertolino@isti.cnr.it>
 Eda Marchetti, ISTI-CNR, Italy, <eda.marchetti@isti.cnr.it>
 
 **Software Maintenance**  
-Alain April, Ecole de technologie superieure (ETS), Canada, <alain.april@etsmtl.ca>  
+Alain April, École de technologie supérieure (ÉTS), Canada, <alain.april@etsmtl.ca>  
 Mira Kajko-Mattsson, School of Information and Communication Technology, KTH Royal Institute of Technology, <mekm2@kth.se>
 
 **Software Configuration Management**  
-Roger Champagne, Ecole de technologie superieure (ETS), Canada, <roger.champagne@etsmtl.ca>  
-Alain April, Ecole de technologie superieure (ETS), Canada, <alain.april@etsmtl.ca>
+Roger Champagne, École de technologie supérieure (ÉTS), Canada, <roger.champagne@etsmtl.ca>  
+Alain April, École de technologie supérieure (ÉTS), Canada, <alain.april@etsmtl.ca>
 
 **Software Engineering Management**  
 James McDonald, Department of Computer Science and Software Engineering, Monmouth University, USA, <jamesmc@monmouth.edu>
@@ -83,7 +106,7 @@ Eda Marchetti, ISTI-CNR, Italy
 
 **Software Maintenance**  
 Thomas M. Pigoski, Techsoft Inc., USA  
-Alain April, Ecole de technologie superieure, Canada  
+Alain April, École de technologie supérieure (ÉTS), Canada  
 
 **Software Configuration Management**  
 John A. Scott, Lawrence Livermore National Laboratory, USA  
@@ -102,7 +125,7 @@ David Carrington, School of Information Technology and Electrical Engineering,
 The University of Queensland, Australia  
 
 **Software Quality**  
-Alain April, Ecole de technologie superieure, Canada  
+Alain April, École de technologie supérieure (ÉTS), Canada  
 Dolores Wallace, retired from the National Institute of Standards and Technology, USA  
 Larry Reeker, NIST, USA
 
@@ -206,3 +229,21 @@ Marc Bouisset, Departement d'informatique, UQAM
 |David M. Endres, USA			|Vladimir Mandic, Serbia
 |Marilyn Escue, USA			|Matt Mansell, New Zealand
 |Varuna Eswer, India			|John Marien, USA
+
+## Πρόεδροι της IEEE Computer Society
+Dejan Milojicic, 2014  
+David Alan Grier, 2013  
+Thomas Conte, 2015
+
+## Συμβούλιο επαγγελματικών δραστηριοτήτων 2013
+Donald F. Shafer, (Πρόεδρος)  
+Pieter Botman, CSDP  
+Pierre Bourque  
+Richard Fairley, CSDP  
+Dennis Frailey  
+S. Michael Gayle  
+Phillip Laplante, CSDP  
+Jim Moore, CSDP  
+Linda Shafer, CSDP  
+Steve Tockey, CSDP  
+Charlene “Chuck” Walrad
