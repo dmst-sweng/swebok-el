@@ -10,12 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="765"
+   height="990"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="cover.svg">
+   sodipodi:docname="cover.svg"
+   inkscape:export-filename="C:\dds\pubs\current\swebok-el\manuscript\images\title_page.jpg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <clipPath
@@ -23,7 +26,8 @@
        clipPathUnits="userSpaceOnUse">
       <path
          id="path3033"
-         d="m 0,0 872,0 0,267.992 -872,0 L 0,0 z" />
+         d="m 0,0 872,0 0,267.992 -872,0 L 0,0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
   </defs>
   <sodipodi:namedview
@@ -52,14 +56,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-62.362139)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot2985"
