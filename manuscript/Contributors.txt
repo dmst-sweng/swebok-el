@@ -9,6 +9,19 @@ Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA), d
 Μάιρα Δελοπούλου, Τμήμα Πληροφορικής, Οικονομικό Πανεπιστήμιο Αθηνών  
 Άννα Μέρλου, Τμήμα Διοικητικής Επιστήμης και Τεχνολογίας, Οικονομικό Πανεπιστήμιο Αθηνών
 
+## Γελοιογραφίες
+Οι γελοιογραφίες που έχουν προστεθεί στο κείμενο της ελληνικής
+έκδοσης είναι του Randall Munroe.  
+Προέρχονται από τον ιστότοπο [xkcd.com](https://xkcd.com/) και  
+χρησιμοποιούνται βάσει της άδειας διανομής τους  
+[Creative Commons Attribution-NonCommercial 2.5](http://creativecommons.org/licenses/by-nc/2.5/).
+Η γραμματοσειρά τους βασίζεται στο γραφικό χαρακτήρα του  
+Randall Munroe.  
+Προέρχεται από το αποθετήριο  
+[github.com/ipython/xkcd-font](https://github.com/ipython/xkcd-font)  
+και χρησιμοποιείται βάσει της άδειας διανομής της  
+[Creative Commons Attribution-NonCommercial 3.0](https://github.com/ipython/xkcd-font/blob/master/LICENSE).
+
 ## Βοηθοί επιμελητές της αγγλικής έκδοσης
 Alain Abran, Department of Software and IT Engineering, École de technologie supérieure (ÉTS), Canada, alain.abran@etsmtl.ca  
 Juan Garbajosa, Universidad Politecnica de Madrid (Technical University of Madrid, UPM), Spain, juan.garbajosa@upm.es  
