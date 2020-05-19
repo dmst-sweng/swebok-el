@@ -1,4 +1,4 @@
-﻿# Συντελεστές του έργου
+# Συντελεστές του έργου
 
 ## Επιμελητές της αγγλικής έκδοσης
 Pierre Bourque, École de technologie supérieure (ÉTS), pierre.bourque@etsmtl.ca  

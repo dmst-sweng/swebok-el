@@ -1,4 +1,4 @@
-﻿{mainmatter}
+{mainmatter}
 
 # Απαιτήσεις λογισμικού {#softreq}
 
