@@ -325,7 +325,7 @@
   Singleton)
   * Δομικά πρότυπα (για παράδειγμα, Adapter, Bridge, Composite, Decorator,
   Facade, Flighweight Proxy)
-  * Συμπεριφορικά πρότυπα (για παράδειγμα, Command, Intepreter, Iterator,
+  * Συμπεριφορικά πρότυπα (για παράδειγμα, Command, Interpreter, Iterator,
   Mediator).
 
 ### Αποφάσεις σχεδίασης αρχιτεκτονικών
