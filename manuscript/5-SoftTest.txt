@@ -2,10 +2,40 @@
 
 ## Ακρωνύμια
 
-|API	|Application Program Interface
-|TDD	|Test-Driven Development
-|XP 	|Extreme Programming
-
+|AI |Artificial Intelligence
+|API |Application Program Interface
+|ARINC |Aeronautical Radio Incorporated
+|ATDD |Acceptance Test-Driven Development
+|CMMI |Capability Maturity Model Integration 
+|CSS |Cascading Style Sheets 
+|DICOM |Digital Imaging and Communications in Medicine
+|DL |Deep Learning 
+|DU |Definition and Use
+|EBSE |Evidence-Based Software Engineering 
+|ECS |Ecosystem
+|ETSI |European Telecommunications Standards Institute 
+|FHIR |Fast Healthcare Interoperability Resources 
+|GDPR |General Data Protection Regulation 
+|GPS |Global Positioning System
+|GUI |Graphical User Interface 
+|HIL |Hardware-In-the-Loop 
+|HIPAA |Health Insurance Portability and Accountability Act 
+|HL7 |Health Level Seven 
+|IoT |Internet of Things 
+|KPI |Key Performance Indicator
+|MC/DC |Modified Condition Decision Coverage
+|ML |Machine Learning 
+|MTTR |Mean Time to Recovery 
+|OAT |Orthogonal Array Testing
+|ODC |Orthogonal Defect Classification
+|RUP |Rational Unified Process 
+|SoS |System of Systems
+|SPI |Software Process Improvement 
+|SPICE |Software Process Improvement and Capability Determination 
+|SUT |System Under Test
+|TDD |Test-Driven Development
+|TMMi |Test Maturity Model integration
+|UI |User Interface
 
 ## Εισαγωγή
 
@@ -107,10 +137,10 @@
 ## Κατανομή των θεμάτων για τον έλεγχο λογισμικού
 
 {id="fig-softtest-tree"}
-![Σχήμα 4.1 Κατανομή των θεμάτων στο γνωστικό πεδίο Έλεγχος λογισμικού.](images/4-SoftTest.png)
+![Σχήμα 5.1 Κατανομή των θεμάτων στο γνωστικό πεδίο Έλεγχος λογισμικού.](images/5-SoftTest.png)
 
 Η κατανομή των θεμάτων για τα γνωστικά πεδία του ελέγχου λογισμικού 
-απεικονίζεται στο [Σχήμα 4.1](#fig-softtest-tree).
+απεικονίζεται στο [Σχήμα 5.1](#fig-softtest-tree).
 
 
 Το πρώτο θέμα περιγράφει τις βασικές αρχές στον έλεγχο λογισμικού.
