@@ -3,12 +3,12 @@
 ## Συντομογραφίες
 
 |PMBOK® |						  |
-|Guide	|Guide to the Project Management Body of Knowledge |
+|Guide	|Guide to the Project Management Body of Knowledge  |
 |SDLC |Software Development Life Cycle                     |
 |SEM  |Software Engineering Management                     |
 |SQA  |Software Quality Assurance                          |
-|SWX	|Software Extension to the PMBOK® Guide		           |
-|WBS	|Work Breakdown Structure			                       |
+|SWX	|Software Extension to the PMBOK® Guide		             |
+|WBS	|Work Breakdown Structure			                          |
 |PSM  |Practical Software and Systems Measurement          |
 
 ## Εισαγωγή
