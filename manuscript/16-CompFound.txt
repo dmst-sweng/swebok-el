@@ -2,57 +2,57 @@
 
 ## Ακρωνύμια
 
-|ADT       |Abstract Data Type    							|
-|AI        |Artificial Intelligence    						|
+|ADT       |Abstract Data Type    				|
+|AI        |Artificial Intelligence    				|
 |ANSI      |American National Standards Institute    		|
-|AVL Tree  |Adelson-Velskii and Landis Tree   				|
-|BCNF      |Boyce-Codd Normal Form    						|
-|BST       |Binary Search Tree    							|
-|CASE      |Common Application Service Element  			|
-|CDRAM     |Cache DRAM    									|
-|CERT      |Computer Engineering Response Team   			|
-|CISC      |Complex Instruction Set Computer    			|
-|CRUD      |Create, Read, Update, Delete   					|
-|CUDA      |Compute Unified Device Architecture    			|
-|DAG       |Direct Acrylic Graph   							|
-|DAL       |Database Access Language    					|
-|DAS       |Direct Access Storage    						|
-|DBCS      |Double Byte Character Set    					|
-|DCL       |Data Control Language  							|
-|DDL       |Data Definition Language   						|
-|DDR SDRAM |Double data rate SDRAM    						|
-|DKNF      |Domain/Key Normal Form    						|
-|DMA       |Direct Memory Access   							|
-|DML       |Data Manipulation Language    					|
-|EDW       |Enterprise Data Warehouse   					|
-|FCFS      |First come, First served    					|
-|FIFO      |First In, First Out    							|
-|FPU       |Floating Point Unit    							|		
-|HCI       |Human-Computer Interface    					|
-|HMPP      |Hybrid Multicore Parallel Programming			|
-|HTTP      |Hyper Text Transfer Protocol					|
-|IPC       |Inter-Process Communication						|
-|ISA       |Instruction Set Architecture					|
+|AVL Tree  |Adelson-Velskii and Landis Tree   			|
+|BCNF      |Boyce-Codd Normal Form    				|
+|BST       |Binary Search Tree    				|
+|CASE      |Common Application Service Element  		|
+|CDRAM     |Cache DRAM    					|
+|CERT      |Computer Engineering Response Team   		|
+|CISC      |Complex Instruction Set Computer    		|
+|CRUD      |Create, Read, Update, Delete   			|
+|CUDA      |Compute Unified Device Architecture    		|
+|DAG       |Direct Acrylic Graph   				|
+|DAL       |Database Access Language    			|
+|DAS       |Direct Access Storage    				|
+|DBCS      |Double Byte Character Set    			|
+|DCL       |Data Control Language  				|
+|DDL       |Data Definition Language   				|
+|DDR SDRAM |Double data rate SDRAM    				|
+|DKNF      |Domain/Key Normal Form    				|
+|DMA       |Direct Memory Access   				|
+|DML       |Data Manipulation Language    			|
+|EDW       |Enterprise Data Warehouse   			|
+|FCFS      |First come, First served    			|
+|FIFO      |First In, First Out    				|
+|FPU       |Floating Point Unit    				|		
+|HCI       |Human-Computer Interface    			|
+|HMPP      |Hybrid Multicore Parallel Programming		|
+|HTTP      |Hyper Text Transfer Protocol			|
+|IPC       |Inter-Process Communication				|
+|ISA       |Instruction Set Architecture			|
 |MIMD      |Multiple instruction, multiple data stream 		|
 |MISD      |Multiple instruction, single data stream		|
-|MISRA     |Motor Industry Software Reliability Association |
-|ML        |Machine Learning								|
-|NAS       |Network Access Storage							|
-|OSI       |Open Systems Interconnection					|	
-|PDU       |Protocol Data Unit 								|
-|RDBMS     |Relational DBMS 								|	
-|RDM       |Runtime Database Manager						|
-|RDRAM     |Rambus DRAM 									|
-|RISC      |Reduced Instruction Set Computer 				|
-|RTOS      |Real Time Operating System 				 		|
-|SAN       |Storage Area Network 				  			|
-|SASE      |Specific Application Service Element 			|
-|SDRAM     |Synchronous DRAM  								|
-|SEI       |Software Engineering Institute  				|
+|MISRA     |Motor Industry Software Reliability Association 	|
+|ML        |Machine Learning					|
+|NAS       |Network Access Storage				|
+|OSI       |Open Systems Interconnection			|	
+|PDU       |Protocol Data Unit 					|
+|RDBMS     |Relational DBMS 					|	
+|RDM       |Runtime Database Manager				|
+|RDRAM     |Rambus DRAM 					|
+|RISC      |Reduced Instruction Set Computer 			|
+|RTOS      |Real Time Operating System 				|
+|SAN       |Storage Area Network 				|
+|SASE      |Specific Application Service Element 		|
+|SDRAM     |Synchronous DRAM  					|
+|SEI       |Software Engineering Institute  			|
 |SIMD      |Single instruction, multiple data stream 		|
 |SISD      |Single instruction, single data stream  		|
-|SQL       |Structured Query Language 						|
-|SRTF      |Shortest Remaining Time First 					|
+|SQL       |Structured Query Language 				|
+|SRTF      |Shortest Remaining Time First 			|
 
 
 
