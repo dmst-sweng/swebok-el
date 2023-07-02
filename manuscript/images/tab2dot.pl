@@ -10,6 +10,7 @@ binmode STDOUT, ':utf8';
 my $line_length = 20;
 
 print q(digraph D {
+	node [fontname="Sans"];
 	splines=ortho;
 	ranksep=0.2;
 	node [shape=box, width=2];
